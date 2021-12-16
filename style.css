@@ -1,0 +1,27 @@
+
+
+body {
+    background-color:cornsilk
+}
+.header {
+    background-color: chartreuse;
+
+display:flex;
+   justify-content:space-between;
+
+}
+.grid {
+    background-color:deepskyblue;
+    display:flex;
+   justify-content:space-evenly;
+   flex-wrap: wrap;
+}
+.footer {
+    background-color: darkgray;
+    display:flex;
+   justify-content:flex-end;
+}
+.description {
+
+    background-color: palevioletred;
+}
